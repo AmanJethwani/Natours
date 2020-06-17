@@ -1,4 +1,4 @@
-{
+{ 
   "name": "natours",
   "version": "1.0.0",
   "description": "Landing page for natours",
@@ -12,5 +12,3 @@
     "node-sass": "^4.14.1"
   }
 }
-
-npm install --save jquery
